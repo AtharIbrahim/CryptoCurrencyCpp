@@ -20,6 +20,6 @@
     <li style="margin-bottom: 10px;">🖥️ Augmented Reality Trading Interfaces</li>
     <li style="margin-bottom: 10px;">💡 Accounting Concepts</li>
   </ul>
-  <img src="https://github.com/AtharIbrahim/Trading_Software_Project/blob/main/Menu1.png" alt="CryptoMatrix Logo" style="max-width: 100%; height: auto;">
-  <img src="https://github.com/AtharIbrahim/Trading_Software_Project/blob/main/Menu2.png" alt="CryptoMatrix Logo" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/AtharIbrahim/CryptoCurrencyCpp/blob/main/Trading%20Software/Screenshots/Menu1.png" alt="CryptoMatrix Logo" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/AtharIbrahim/CryptoCurrencyCpp/blob/main/Trading%20Software/Screenshots/Menu2.png" alt="CryptoMatrix Logo" style="max-width: 100%; height: auto;">
 </div>
